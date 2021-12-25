@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋  I'm Riski Saputra
+I am a student of the electronic engineering study program, Yogyakarta State University
 
 <!--
 **riskisaputras/riskisaputras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
